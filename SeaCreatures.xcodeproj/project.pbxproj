@@ -13,6 +13,7 @@
 		8388851A2C407F3C00C19C50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 838885192C407F3C00C19C50 /* Assets.xcassets */; };
 		8388851D2C407F3C00C19C50 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8388851C2C407F3C00C19C50 /* Preview Assets.xcassets */; };
 		838885282C407F3C00C19C50 /* SeaCreaturesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 838885272C407F3C00C19C50 /* SeaCreaturesTests.swift */; };
+		838885322C408D5200C19C50 /* SeaCreature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 838885312C408D5200C19C50 /* SeaCreature.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +36,7 @@
 		8388851E2C407F3C00C19C50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		838885232C407F3C00C19C50 /* SeaCreaturesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SeaCreaturesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		838885272C407F3C00C19C50 /* SeaCreaturesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeaCreaturesTests.swift; sourceTree = "<group>"; };
+		838885312C408D5200C19C50 /* SeaCreature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeaCreature.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			children = (
 				838885152C407F3B00C19C50 /* SeaCreaturesApp.swift */,
 				838885172C407F3B00C19C50 /* ContentView.swift */,
+				838885312C408D5200C19C50 /* SeaCreature.swift */,
 				838885192C407F3C00C19C50 /* Assets.xcassets */,
 				8388851E2C407F3C00C19C50 /* Info.plist */,
 				8388851B2C407F3C00C19C50 /* Preview Content */,
@@ -215,6 +218,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				838885182C407F3B00C19C50 /* ContentView.swift in Sources */,
+				838885322C408D5200C19C50 /* SeaCreature.swift in Sources */,
 				838885162C407F3B00C19C50 /* SeaCreaturesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
